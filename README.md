@@ -11,4 +11,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0162-find-peak-element) |
+## Hash Table
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/1189-maximum-number-of-balloons) |
+## String
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/1189-maximum-number-of-balloons) |
+## Counting
+|  |
+| ------- |
+| [1189-maximum-number-of-balloons](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/1189-maximum-number-of-balloons) |
 <!---LeetCode Topics End-->
