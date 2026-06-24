@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0162-find-peak-element](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0162-find-peak-element) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/1441-build-an-array-with-stack-operations) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/2869-minimum-operations-to-collect-elements) |
 ## Binary Search
 |  |
 | ------- |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/1189-maximum-number-of-balloons) |
+| [2869-minimum-operations-to-collect-elements](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/2869-minimum-operations-to-collect-elements) |
 ## String
 |  |
 | ------- |
@@ -47,4 +49,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1441-build-an-array-with-stack-operations](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/1441-build-an-array-with-stack-operations) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2869-minimum-operations-to-collect-elements](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/2869-minimum-operations-to-collect-elements) |
 <!---LeetCode Topics End-->
