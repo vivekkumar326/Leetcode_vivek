@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0162-find-peak-element) |
+| [1441-build-an-array-with-stack-operations](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/1441-build-an-array-with-stack-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -41,4 +42,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0020-valid-parentheses) |
+| [1441-build-an-array-with-stack-operations](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/1441-build-an-array-with-stack-operations) |
+## Simulation
+|  |
+| ------- |
+| [1441-build-an-array-with-stack-operations](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/1441-build-an-array-with-stack-operations) |
 <!---LeetCode Topics End-->
