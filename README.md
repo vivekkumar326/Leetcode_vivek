@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0020-valid-parentheses) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0084-largest-rectangle-in-histogram) |
+| [0155-min-stack](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0155-min-stack) |
 | [0503-next-greater-element-ii](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0739-daily-temperatures) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/1441-build-an-array-with-stack-operations) |
@@ -82,4 +83,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0239-sliding-window-maximum) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
