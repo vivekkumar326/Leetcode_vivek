@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0013-roman-to-integer) |
 | [1189-maximum-number-of-balloons](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/1189-maximum-number-of-balloons) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/2869-minimum-operations-to-collect-elements) |
 ## String
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0344-reverse-string) |
 | [0556-next-greater-element-iii](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0556-next-greater-element-iii) |
@@ -41,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0189-rotate-array) |
 | [0556-next-greater-element-iii](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0556-next-greater-element-iii) |
 ## Two Pointers
