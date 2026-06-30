@@ -21,11 +21,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0012-integer-to-roman) |
 | [1189-maximum-number-of-balloons](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/1189-maximum-number-of-balloons) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/2869-minimum-operations-to-collect-elements) |
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0344-reverse-string) |
 | [0556-next-greater-element-iii](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0556-next-greater-element-iii) |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0012-integer-to-roman) |
 | [0189-rotate-array](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0189-rotate-array) |
 | [0556-next-greater-element-iii](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0556-next-greater-element-iii) |
 ## Two Pointers
