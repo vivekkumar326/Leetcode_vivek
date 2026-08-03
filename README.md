@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0001-two-sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0084-largest-rectangle-in-histogram) |
 | [0162-find-peak-element](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0189-rotate-array) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0013-roman-to-integer) |
 | [1189-maximum-number-of-balloons](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/1189-maximum-number-of-balloons) |
