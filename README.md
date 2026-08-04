@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0018-4sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0084-largest-rectangle-in-histogram) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0239-sliding-window-maximum) |
@@ -165,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0018-4sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Greedy
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 <!---LeetCode Topics End-->
