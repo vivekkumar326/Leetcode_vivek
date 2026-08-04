@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0001-two-sum) |
+| [0018-4sum](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0018-4sum) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0084-largest-rectangle-in-histogram) |
 | [0162-find-peak-element](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0189-rotate-array) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0018-4sum](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0018-4sum) |
 | [0189-rotate-array](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0344-reverse-string) |
 | [0556-next-greater-element-iii](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0556-next-greater-element-iii) |
@@ -159,4 +161,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1038-binary-search-tree-to-greater-sum-tree](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/1038-binary-search-tree-to-greater-sum-tree) |
+## Sorting
+|  |
+| ------- |
+| [0018-4sum](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0018-4sum) |
 <!---LeetCode Topics End-->
