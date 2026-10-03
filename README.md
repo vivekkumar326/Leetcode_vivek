@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0283-move-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0739-daily-temperatures) |
 | [1408-string-matching-in-an-array](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/1408-string-matching-in-an-array) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0344-reverse-string) |
 | [0556-next-greater-element-iii](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0557-reverse-words-in-a-string-iii) |
