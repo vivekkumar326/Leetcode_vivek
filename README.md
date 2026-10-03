@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0162-find-peak-element](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0189-rotate-array) |
 | [0239-sliding-window-maximum](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0239-sliding-window-maximum) |
 | [0283-move-zeroes](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0283-move-zeroes) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0162-find-peak-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Hash Table
 |  |
 | ------- |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0344-reverse-string) |
