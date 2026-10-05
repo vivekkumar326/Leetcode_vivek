@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0283-move-zeroes) |
 | [0503-next-greater-element-ii](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0503-next-greater-element-ii) |
 | [0739-daily-temperatures](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0739-daily-temperatures) |
+| [0977-squares-of-a-sorted-array](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0977-squares-of-a-sorted-array) |
 | [1408-string-matching-in-an-array](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/1408-string-matching-in-an-array) |
 | [1441-build-an-array-with-stack-operations](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/1441-build-an-array-with-stack-operations) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/2869-minimum-operations-to-collect-elements) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0344-reverse-string) |
 | [0556-next-greater-element-iii](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0977-squares-of-a-sorted-array](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0977-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0018-4sum) |
 | [0088-merge-sorted-array](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0088-merge-sorted-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
 |  |
 | ------- |
