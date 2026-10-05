@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0084-largest-rectangle-in-histogram) |
 | [0088-merge-sorted-array](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0088-merge-sorted-array) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0075-sort-colors](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0018-4sum](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0018-4sum) |
+| [0075-sort-colors](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0977-squares-of-a-sorted-array) |
 ## Dynamic Programming
@@ -197,4 +200,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0021-merge-two-sorted-lists) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
