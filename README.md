@@ -219,4 +219,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0075-sort-colors) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
