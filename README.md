@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0013-roman-to-integer) |
+| [0424-longest-repeating-character-replacement](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0424-longest-repeating-character-replacement) |
 | [1189-maximum-number-of-balloons](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/1189-maximum-number-of-balloons) |
 | [2869-minimum-operations-to-collect-elements](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/2869-minimum-operations-to-collect-elements) |
 ## String
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0020-valid-parentheses) |
 | [0344-reverse-string](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0344-reverse-string) |
+| [0424-longest-repeating-character-replacement](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0424-longest-repeating-character-replacement) |
 | [0556-next-greater-element-iii](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0556-next-greater-element-iii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0557-reverse-words-in-a-string-iii) |
 | [1189-maximum-number-of-balloons](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/1189-maximum-number-of-balloons) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0239-sliding-window-maximum) |
+| [0424-longest-repeating-character-replacement](https://github.com/vivekkumar326/Leetcode_vivek/tree/master/0424-longest-repeating-character-replacement) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
